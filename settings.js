@@ -73,7 +73,7 @@ global.PRIVET_BOT = true
 global.DISABLE_COMMANDS = false
 //👇 DISABLE Bot Commands On Message Send On Off
 global.DISABLE_COMMAND_MESSAGE_SEND = false 
-global.AUTO_SEEN_STATUS = true
+global.AUTO_SEEN_STATUS = false
 
 
 
@@ -109,7 +109,21 @@ global.LANG = 'EN'
 //Alive logo
 global.alivelogo = process.env.ALIVE_IMAGE || `https://telegra.ph/file/b3f17c16eedf99731a52d.jpg`
 //👇 Alive message
-global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `default`
+global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `╭───────《 *Aʟɪᴠᴇ 🔥* 》──────⊷
+│ ╭────────────────────
+│ │➮ *Bᴏᴛ Nᴀᴍᴇ - Qᴜᴇᴇɴ Eʟɪꜱᴀ*
+│ │➮ *Dᴇᴠᴇʟᴏᴘᴇʀ - ᴍ ʀ ⃞ ɴ ɪ ᴍ ᴀ*
+│ │➮ *Oᴡɴᴇʀ - ᴍ ʀ ⃞ ꜱ ʜ ᴀ ɴ*
+│ │➮ *Oᴡɴᴇʀ Nᴏ* - 760126983
+│ │➮ *Vᴇʀꜱɪᴏɴ - 3.9.7*
+│ │➮ *Mᴏᴅᴇ - Pʀɪᴠᴀᴛᴇ*
+│ │➮ *Pʟᴀᴛꜰᴏʀᴍ - Hᴇʀᴏᴋᴜ* ╰────────────────────
+╰───────────────────────⊷
+´~Creater : M ʀ ⃞ ɪ ꜱ ᴜ ʀ ᴜ~´
+´~https://wa.me/+94766632281?text=_ʜᴇʏ_ɪꜱᴜʀᴜ🐼💞~´
+───────────⊷
+
+*々 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄʏʙᴇʀᴋɪʟʟᴇʀꜱᴛᴇᴀᴍ*`
 //👇 Welcome Mesaage
 global.WELCOME = process.env.WELCOME || ``
 //👇 welcome image 
